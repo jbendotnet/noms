@@ -1,4 +1,4 @@
-module github.com/attic-labs/noms
+module github.com/jbendotnet/noms
 
 go 1.12
 
